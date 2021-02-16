@@ -1,0 +1,8 @@
+{
+  "short_name": "My Todo",
+  "name": "Todo App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#15D55B",
+  "background_color": "#2f2f2f"
+}
